@@ -1,1 +1,13 @@
+td, th {
+	border: 5px solid;
+  }
+    body {
+  background-color: orange;
+}
 
+h1 {
+  background-color: green;
+
+img {
+width="60" height="40"
+}
