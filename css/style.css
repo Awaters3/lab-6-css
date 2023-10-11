@@ -1,13 +1,18 @@
 td, th {
 	border: 10px solid;
+	text-align: center;
+	padding: 30px;
   }
     body {
   background-color: orange;
 }
 
 h1 {
-  background-color: red;
+  background-color: green;
 
 img {
 width="60" height="40"
+}
+table {
+  width: 80%;
 }
